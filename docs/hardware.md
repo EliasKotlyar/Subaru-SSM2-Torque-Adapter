@@ -7,3 +7,6 @@
 | LIN_RX     | PIN_PD2 |
 | LIN_TX     | PIN_PB3 |
 | LIN Enable | PIN_PA6 |
+
+![Cable Top](/image/cable-top.jpg)
+![Cable Bottom](/image/cable-bottom.jpg)

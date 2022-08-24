@@ -3,7 +3,7 @@ Taken from https://github.com/matprophet/subduino
 Credits to  Mathew Davidson
 */
 
-#include <SSMCAN.h>
+#include "SSMCAN.h"
 #include <SoftwareSerial.h>
 
 #define SERIAL_READ_DELAY_MS  20
@@ -198,8 +198,7 @@ void sendSSMPacket(SSMPacket *packet, SoftwareSerial &ss) {
     ss.write(checksum);
     
     packet->checksum = checksum;
-    logPacket(packet);
+    //logPacket(packet);
     
     freePacket(packet);
 }
-

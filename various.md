@@ -1,0 +1,10 @@
+https://github.com/mr-sneezy/ArduinoHondaOBD1_to_OBD2_BT
+https://github.com/mr-sneezy/ArduinoHondaOBD1_to_OBD2_BT/blob/Development/docs/Custom%20PIDs%20for%20Expanded%20version%20hardware%20and%20FW.csv
+https://github.com/TheBigBadWolfClub/GTTurboEcu
+https://github.com/MCUdude/MajorCore/issues/12
+https://github.com/codeplea/tinyexpr/blob/master/README.md
+https://wiki.torque-bhp.com/view/User_Arduino_code
+https://github.com/piemmm/torque-arduino/blob/main/torque-arduino.ino
+https://www.subaru-community.com/subaru-foren/forester-forum/forry-turbo/120652-btssm-knock/#post1351854
+https://github.com/oesmith/pyselectmonitor
+https://play.google.com/store/apps/details?id=com.app.btssm
